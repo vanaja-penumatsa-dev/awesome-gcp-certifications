@@ -13,6 +13,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2022/08 | [GCP PMLE refresh guide](https://github.com/vanaja-penumatsa-dev/GCP-certifications/blob/main/ML%20Engineer%20track/GCP%20PMLE%20refresh%20guide.pdf) | Vanaja Penumatsa |
 |  2022/03 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
 |  2022/01 | [How to prepare for the GCP PMLEexam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f) | Gabriel Cassimiro|
 |  2021/08 | [A Comprehensive Study Guide for the GCP ML Engineer Certification](https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf) | Jeffrey Luppes |
